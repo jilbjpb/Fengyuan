@@ -1,5 +1,2 @@
 # starter_folder
-
-This repo....
-
-It is organised as follows...
+This project introduces the Apartment Building Evaluation datasets. It utilizes the building evaluation scores for buildings registered with RentSafeTO for determining and analyzing the scores and situations of buildings. This report utilizes data on apartment building evaluation scores in Toronto. It aims to assess the trends and patterns of scores, as well as the relating factors.
